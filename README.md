@@ -33,3 +33,6 @@ $имя$
 возможной вложенности) должны быть покрыты тестами. Необходимо показать 3
 примера описания конфигураций из разных предметных областей.
 запуск программы:Get-Content config.txt | python config_to_yaml.py outputt.yaml
+Было:![alt text](image.png)
+Стало:![alt text](image-1.png)
+Тесты:![alt text](image-2.png)
