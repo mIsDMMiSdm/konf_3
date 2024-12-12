@@ -1,0 +1,11 @@
+def hostname = "example.com";
+def max_clients = 100;
+
+ConfigString = $hostname$;
+MaxClients = $max_clients$;
+
+' Ports
+Ports = [80, 443];
+
+ServerName = $hostname$;
+WelcomeMessage = "Hello!";
